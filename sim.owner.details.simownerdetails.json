@@ -1,0 +1,6 @@
+{   // Shows interstitial every 5 clicks
+  "whatsapp": {
+    "enabled": true,
+    "url": "https://wa.me/+15558277556?text=hii"
+  }
+}

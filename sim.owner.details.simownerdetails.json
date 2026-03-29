@@ -1,6 +1,6 @@
 {
   "whatsapp": {
-    "enabled": true,
+    "enabled": false,
     "url": "https://wa.me/+923321299333?text=hii"
   }
 }
